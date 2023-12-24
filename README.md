@@ -1,6 +1,6 @@
 # Hi i am Krishna Mahat.
 
-# Currently working as a full stack PHP developer.
+# Currently working as a full stack PHP(Laravel) developer.
 
 # Education.
   Bachelor in Computer Engineering.  (Pokhara University)
